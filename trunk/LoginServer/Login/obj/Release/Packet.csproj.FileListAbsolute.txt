@@ -1,0 +1,21 @@
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\LoginServer\Login\bin\Release\Login.dll
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\LoginServer\Login\bin\Release\Login.pdb
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\LoginServer\Login\bin\Release\FrameWorkLogin.dll
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\LoginServer\Login\bin\Release\FrameWorkLogin.pdb
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\LoginServer\Login\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\LoginServer\Login\obj\Release\Login.dll
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\LoginServer\Login\obj\Release\Login.pdb
+C:\Arcane\Complete\LoginServer\Login\bin\Release\Login.dll
+C:\Arcane\Complete\LoginServer\Login\bin\Release\Login.pdb
+C:\Arcane\Complete\LoginServer\Login\bin\Release\FrameWorkLogin.dll
+C:\Arcane\Complete\LoginServer\Login\bin\Release\FrameWorkLogin.pdb
+C:\Arcane\Complete\LoginServer\Login\obj\Release\ResolveAssemblyReference.cache
+C:\Arcane\Complete\LoginServer\Login\obj\Release\Login.dll
+C:\Arcane\Complete\LoginServer\Login\obj\Release\Login.pdb
+C:\sro\Arcane-bin+src\src\LoginServer\Login\bin\Release\Login.dll
+C:\sro\Arcane-bin+src\src\LoginServer\Login\bin\Release\Login.pdb
+C:\sro\Arcane-bin+src\src\LoginServer\Login\bin\Release\FrameWorkLogin.dll
+C:\sro\Arcane-bin+src\src\LoginServer\Login\bin\Release\FrameWorkLogin.pdb
+C:\sro\Arcane-bin+src\src\LoginServer\Login\obj\Release\ResolveAssemblyReference.cache
+C:\sro\Arcane-bin+src\src\LoginServer\Login\obj\Release\Login.dll
+C:\sro\Arcane-bin+src\src\LoginServer\Login\obj\Release\Login.pdb

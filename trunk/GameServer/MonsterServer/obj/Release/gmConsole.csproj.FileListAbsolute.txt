@@ -1,0 +1,30 @@
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\GameServer\MonsterServer\bin\Release\gmConsole.exe.config
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\GameServer\MonsterServer\bin\Release\gmConsole.exe
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\GameServer\MonsterServer\bin\Release\gmConsole.pdb
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\GameServer\MonsterServer\bin\Release\FrameWorkGame.dll
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\GameServer\MonsterServer\bin\Release\Game.dll
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\GameServer\MonsterServer\bin\Release\FrameWorkGame.pdb
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\GameServer\MonsterServer\bin\Release\Game.pdb
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\GameServer\MonsterServer\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\GameServer\MonsterServer\obj\Release\gmConsole.exe
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\GameServer\MonsterServer\obj\Release\gmConsole.pdb
+C:\Arcane\Complete\GameServer\MonsterServer\bin\Release\gmConsole.exe.config
+C:\Arcane\Complete\GameServer\MonsterServer\bin\Release\gmConsole.exe
+C:\Arcane\Complete\GameServer\MonsterServer\bin\Release\gmConsole.pdb
+C:\Arcane\Complete\GameServer\MonsterServer\bin\Release\FrameWorkGame.dll
+C:\Arcane\Complete\GameServer\MonsterServer\bin\Release\Game.dll
+C:\Arcane\Complete\GameServer\MonsterServer\bin\Release\FrameWorkGame.pdb
+C:\Arcane\Complete\GameServer\MonsterServer\bin\Release\Game.pdb
+C:\Arcane\Complete\GameServer\MonsterServer\obj\Release\ResolveAssemblyReference.cache
+C:\Arcane\Complete\GameServer\MonsterServer\obj\Release\gmConsole.exe
+C:\Arcane\Complete\GameServer\MonsterServer\obj\Release\gmConsole.pdb
+C:\sro\Arcane-bin+src\src\GameServer\MonsterServer\bin\Release\gmConsole.exe.config
+C:\sro\Arcane-bin+src\src\GameServer\MonsterServer\bin\Release\gmConsole.exe
+C:\sro\Arcane-bin+src\src\GameServer\MonsterServer\bin\Release\gmConsole.pdb
+C:\sro\Arcane-bin+src\src\GameServer\MonsterServer\bin\Release\FrameWorkGame.dll
+C:\sro\Arcane-bin+src\src\GameServer\MonsterServer\bin\Release\Game.dll
+C:\sro\Arcane-bin+src\src\GameServer\MonsterServer\bin\Release\FrameWorkGame.pdb
+C:\sro\Arcane-bin+src\src\GameServer\MonsterServer\bin\Release\Game.pdb
+C:\sro\Arcane-bin+src\src\GameServer\MonsterServer\obj\Release\ResolveAssemblyReference.cache
+C:\sro\Arcane-bin+src\src\GameServer\MonsterServer\obj\Release\gmConsole.exe
+C:\sro\Arcane-bin+src\src\GameServer\MonsterServer\obj\Release\gmConsole.pdb
