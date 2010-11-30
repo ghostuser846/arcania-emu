@@ -1,0 +1,7 @@
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\GameServer\Game\bin\Debug\Game.dll
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\GameServer\Game\bin\Debug\Game.pdb
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\GameServer\Game\bin\Debug\FrameWorkGame.dll
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\GameServer\Game\bin\Debug\FrameWorkGame.pdb
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\GameServer\Game\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\GameServer\Game\obj\Debug\Game.dll
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\GameServer\Game\obj\Debug\Game.pdb

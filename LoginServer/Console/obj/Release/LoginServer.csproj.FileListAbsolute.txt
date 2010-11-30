@@ -1,0 +1,30 @@
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\LoginServer\Console\bin\Release\LoginServer.exe.config
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\LoginServer\Console\bin\Release\LoginServer.exe
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\LoginServer\Console\bin\Release\LoginServer.pdb
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\LoginServer\Console\bin\Release\FrameWorkLogin.dll
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\LoginServer\Console\bin\Release\Login.dll
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\LoginServer\Console\bin\Release\FrameWorkLogin.pdb
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\LoginServer\Console\bin\Release\Login.pdb
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\LoginServer\Console\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\LoginServer\Console\obj\Release\LoginServer.exe
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\LoginServer\Console\obj\Release\LoginServer.pdb
+C:\Arcane\Complete\LoginServer\Console\bin\Release\LoginServer.exe.config
+C:\Arcane\Complete\LoginServer\Console\bin\Release\LoginServer.exe
+C:\Arcane\Complete\LoginServer\Console\bin\Release\LoginServer.pdb
+C:\Arcane\Complete\LoginServer\Console\bin\Release\FrameWorkLogin.dll
+C:\Arcane\Complete\LoginServer\Console\bin\Release\Login.dll
+C:\Arcane\Complete\LoginServer\Console\bin\Release\Login.pdb
+C:\Arcane\Complete\LoginServer\Console\bin\Release\FrameWorkLogin.pdb
+C:\Arcane\Complete\LoginServer\Console\obj\Release\ResolveAssemblyReference.cache
+C:\Arcane\Complete\LoginServer\Console\obj\Release\LoginServer.exe
+C:\Arcane\Complete\LoginServer\Console\obj\Release\LoginServer.pdb
+C:\sro\Arcane-bin+src\src\LoginServer\Console\bin\Release\LoginServer.exe.config
+C:\sro\Arcane-bin+src\src\LoginServer\Console\bin\Release\LoginServer.exe
+C:\sro\Arcane-bin+src\src\LoginServer\Console\bin\Release\LoginServer.pdb
+C:\sro\Arcane-bin+src\src\LoginServer\Console\bin\Release\FrameWorkLogin.dll
+C:\sro\Arcane-bin+src\src\LoginServer\Console\bin\Release\Login.dll
+C:\sro\Arcane-bin+src\src\LoginServer\Console\bin\Release\Login.pdb
+C:\sro\Arcane-bin+src\src\LoginServer\Console\bin\Release\FrameWorkLogin.pdb
+C:\sro\Arcane-bin+src\src\LoginServer\Console\obj\Release\ResolveAssemblyReference.cache
+C:\sro\Arcane-bin+src\src\LoginServer\Console\obj\Release\LoginServer.exe
+C:\sro\Arcane-bin+src\src\LoginServer\Console\obj\Release\LoginServer.pdb

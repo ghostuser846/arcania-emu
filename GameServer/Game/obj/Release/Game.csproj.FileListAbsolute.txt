@@ -1,0 +1,21 @@
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\GameServer\Game\bin\Release\Game.dll
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\GameServer\Game\bin\Release\Game.pdb
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\GameServer\Game\bin\Release\FrameWorkGame.dll
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\GameServer\Game\bin\Release\FrameWorkGame.pdb
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\GameServer\Game\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\GameServer\Game\obj\Release\Game.dll
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\GameServer\Game\obj\Release\Game.pdb
+C:\Arcane\Complete\GameServer\Game\bin\Release\Game.dll
+C:\Arcane\Complete\GameServer\Game\bin\Release\Game.pdb
+C:\Arcane\Complete\GameServer\Game\bin\Release\FrameWorkGame.dll
+C:\Arcane\Complete\GameServer\Game\bin\Release\FrameWorkGame.pdb
+C:\Arcane\Complete\GameServer\Game\obj\Release\ResolveAssemblyReference.cache
+C:\Arcane\Complete\GameServer\Game\obj\Release\Game.dll
+C:\Arcane\Complete\GameServer\Game\obj\Release\Game.pdb
+C:\sro\Arcane-bin+src\src\GameServer\Game\bin\Release\Game.dll
+C:\sro\Arcane-bin+src\src\GameServer\Game\bin\Release\Game.pdb
+C:\sro\Arcane-bin+src\src\GameServer\Game\bin\Release\FrameWorkGame.dll
+C:\sro\Arcane-bin+src\src\GameServer\Game\bin\Release\FrameWorkGame.pdb
+C:\sro\Arcane-bin+src\src\GameServer\Game\obj\Release\ResolveAssemblyReference.cache
+C:\sro\Arcane-bin+src\src\GameServer\Game\obj\Release\Game.dll
+C:\sro\Arcane-bin+src\src\GameServer\Game\obj\Release\Game.pdb

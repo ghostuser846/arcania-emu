@@ -1,0 +1,30 @@
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\GameServer\GameServer\bin\Release\GameServer.exe.config
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\GameServer\GameServer\bin\Release\GameServer.exe
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\GameServer\GameServer\bin\Release\GameServer.pdb
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\GameServer\GameServer\bin\Release\FrameWorkGame.dll
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\GameServer\GameServer\bin\Release\Game.dll
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\GameServer\GameServer\bin\Release\FrameWorkGame.pdb
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\GameServer\GameServer\bin\Release\Game.pdb
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\GameServer\GameServer\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\GameServer\GameServer\obj\Release\GameServer.exe
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\GameServer\GameServer\obj\Release\GameServer.pdb
+C:\Arcane\Complete\GameServer\GameServer\bin\Release\GameServer.exe.config
+C:\Arcane\Complete\GameServer\GameServer\bin\Release\GameServer.exe
+C:\Arcane\Complete\GameServer\GameServer\bin\Release\GameServer.pdb
+C:\Arcane\Complete\GameServer\GameServer\bin\Release\FrameWorkGame.dll
+C:\Arcane\Complete\GameServer\GameServer\bin\Release\Game.dll
+C:\Arcane\Complete\GameServer\GameServer\bin\Release\FrameWorkGame.pdb
+C:\Arcane\Complete\GameServer\GameServer\bin\Release\Game.pdb
+C:\Arcane\Complete\GameServer\GameServer\obj\Release\ResolveAssemblyReference.cache
+C:\Arcane\Complete\GameServer\GameServer\obj\Release\GameServer.exe
+C:\Arcane\Complete\GameServer\GameServer\obj\Release\GameServer.pdb
+C:\sro\Arcane-bin+src\src\GameServer\GameServer\bin\Release\GameServer.exe.config
+C:\sro\Arcane-bin+src\src\GameServer\GameServer\bin\Release\GameServer.exe
+C:\sro\Arcane-bin+src\src\GameServer\GameServer\bin\Release\GameServer.pdb
+C:\sro\Arcane-bin+src\src\GameServer\GameServer\bin\Release\FrameWorkGame.dll
+C:\sro\Arcane-bin+src\src\GameServer\GameServer\bin\Release\Game.dll
+C:\sro\Arcane-bin+src\src\GameServer\GameServer\bin\Release\FrameWorkGame.pdb
+C:\sro\Arcane-bin+src\src\GameServer\GameServer\bin\Release\Game.pdb
+C:\sro\Arcane-bin+src\src\GameServer\GameServer\obj\Release\ResolveAssemblyReference.cache
+C:\sro\Arcane-bin+src\src\GameServer\GameServer\obj\Release\GameServer.exe
+C:\sro\Arcane-bin+src\src\GameServer\GameServer\obj\Release\GameServer.pdb

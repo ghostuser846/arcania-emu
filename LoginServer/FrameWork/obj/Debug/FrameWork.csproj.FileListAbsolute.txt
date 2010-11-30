@@ -1,0 +1,5 @@
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\LoginServer\FrameWork\bin\Debug\FrameWorkLogin.dll
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\LoginServer\FrameWork\bin\Debug\FrameWorkLogin.pdb
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\LoginServer\FrameWork\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\LoginServer\FrameWork\obj\Debug\FrameWorkLogin.dll
+C:\Documents and Settings\aztech\My Documents\Downloads\aztech_Server\LoginServer\FrameWork\obj\Debug\FrameWorkLogin.pdb
